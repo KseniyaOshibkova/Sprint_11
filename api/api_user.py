@@ -3,7 +3,6 @@ import allure
 from api.url import Urls
 
 
-
 class UserApi:
     def __init__(self, client):
         self.client = client

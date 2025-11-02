@@ -5,7 +5,6 @@ import helpers
 from api.api_adverts import AdvertsApi
 from api.api_client import ClientApi
 from api.api_user import UserApi
-from data.data import Data
 
 
 @pytest.fixture
